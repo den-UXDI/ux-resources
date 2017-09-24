@@ -21,6 +21,7 @@ Resources for UX Designers
 - [ReplyAll](https://gimletmedia.com/reply-all/)
 - [99% Invisible](http://99percentinvisible.org/)
 - [Design Details](https://spec.fm/podcasts/design-details)
+- [Let's Make Mistakes](http://www.mistakes.show/)
 
 ## Books
 
