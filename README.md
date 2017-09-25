@@ -24,6 +24,10 @@ Resources for UX Designers
 
 # Tools
 
+## Git
+- [Github Guides](https://guides.github.com/)
+- [Github Desktop App](https://desktop.github.com/)
+
 ## Wireframing
 - [MockFlow](https://mockflow.com/)
 
