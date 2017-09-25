@@ -1,20 +1,37 @@
-# ux-resources
+# UX Resources
 Resources for UX Designers
+
+# Guides
 
 ## Style Guides
 - [Material Design](https://design.google/resources/)
 - [Apple HIG](https://developer.apple.com/ios/human-interface-guidelines/overview/themes/)
 
+## Design Patterns: Responsive
+- [Brad Frost's This Is Responsive](https://bradfrost.github.io/this-is-responsive/patterns.html)
+- [Pattern Tap](https://zurb.com/patterntap)
+- [Pttrns](https://pttrns.com/)
+- [Smiley Cat](https://www.smileycat.com/category/elements-of-design/)
+- [UserOnboard](https://www.useronboard.com/)
+- [Capptivate.Co](https://github.com/capptivateco/capptivate)
+- [Mobile Patterns](http://www.mobile-patterns.com/)
+- [Inspired UI](http://inspired-ui.com/)
+
+# Components
+
 ## Stock Photos (that don't suck)
 - [Full List](https://medium.com/@dustin/stock-photos-that-dont-suck-62ae4bcbe01b)
 
-## Wireframing Tools
+# Tools
+
+## Wireframing
 - [MockFlow](https://mockflow.com/)
 
 ## Timetracking/Contracts/Invoices
 - [Toggle - _Timetracking_](https://toggl.com/)
 - [And.co - _Timetracking/Contracts/Invoices_](https://www.and.co/)
 
+# Resources
 
 ## Podcasts
 
@@ -28,7 +45,6 @@ Resources for UX Designers
 -[Design Is a Job](https://abookapart.com/products/design-is-a-job)
 -[The Design of Everyday Things](https://www.amazon.com/Design-Everyday-Things-Donald-Norman/dp/1452654123)
 -[Don't Make Me Think](https://www.amazon.com/Dont-Make-Think-Revisited-Usability/dp/0321965515/ref=pd_lpo_sbs_14_t_0?_encoding=UTF8&psc=1&refRID=WK7CJT0FHGPCGB4ZY3E3)
-
 
 ## Articles
 
