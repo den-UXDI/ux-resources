@@ -28,6 +28,10 @@ Resources for UX Designers
 - [Github Guides](https://guides.github.com/)
 - [Github Desktop App](https://desktop.github.com/)
 
+## Web Dev
+- [CSS Peeper](https://csspeeper.com/)
+- [Chrome Dev Tools](https://developer.chrome.com/devtools)
+
 ## Wireframing
 - [MockFlow](https://mockflow.com/)
 
