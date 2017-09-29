@@ -32,6 +32,10 @@ Resources for UX Designers
 - [CSS Peeper](https://csspeeper.com/)
 - [Chrome Dev Tools](https://developer.chrome.com/devtools)
 
+## Color
+- [Adobe's Color Tool](https://color.adobe.com/)
+- [Image Search by Color (TinEye)](https://labs.tineye.com/multicolr/)
+
 ## Wireframing
 - [MockFlow](https://mockflow.com/)
 
