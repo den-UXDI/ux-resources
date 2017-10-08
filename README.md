@@ -74,3 +74,4 @@ Resources for UX Designers
 ## Articles
 
 -[Dieter Rams 10 Principles of “Good Design”](http://www.archdaily.com/198583/dieter-rams-10-principles-of-%25e2%2580%259cgood-design%25e2%2580%259d)
+-[Visual Design Principles for Web Designers](https://webflow.com/blog/essential-visual-design-principles-for-web-designers)
