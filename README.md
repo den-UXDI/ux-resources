@@ -35,6 +35,19 @@ Resources for UX Designers
 ## Color
 - [Adobe's Color Tool](https://color.adobe.com/)
 - [Image Search by Color (TinEye)](https://labs.tineye.com/multicolr/)
+- [ColourCo](http://www.colourco.de/)
+- [Design Seeds](https://www.design-seeds.com/)
+- [Dribble Color Search](https://dribbble.com/colors/242424)
+- [Google Material Color Tool](https://material.io/color/)
+- [Smashing's Guide to Color](https://www.smashingmagazine.com/2016/04/web-developer-guide-color/)
+
+## Typography
+-[Dafont](http://dafont.com/)
+-[TypeWolf](https://www.typewolf.com/resources)
+-[HypeForType](https://www.hypefortype.com/)
+-[Google Fonts](https://fonts.google.com/)
+-[Typography - That Sacred Cow](https://medium.muz.li/typography-that-sacred-cow-ea7a5909ca70)
+-[Friends of Type](http://friendsoftype.com/)
 
 ## Wireframing
 - [MockFlow](https://mockflow.com/)
