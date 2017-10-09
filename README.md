@@ -36,6 +36,7 @@ Resources for UX Designers
 - [Adobe's Color Tool](https://color.adobe.com/)
 - [Image Search by Color (TinEye)](https://labs.tineye.com/multicolr/)
 - [ColourCo](http://www.colourco.de/)
+- [W3Schools Colors](https://www.w3schools.com/cssref/css_colors.asp)
 - [Design Seeds](https://www.design-seeds.com/)
 - [Dribble Color Search](https://dribbble.com/colors/242424)
 - [Google Material Color Tool](https://material.io/color/)
