@@ -15,7 +15,7 @@ Resources for UX Designers
 - [UserOnboard](https://www.useronboard.com/)
 - [Capptivate.Co](https://github.com/capptivateco/capptivate)
 - [Mobile Patterns](http://www.mobile-patterns.com/)
-- [Inspired UI](http://inspired-ui.com/)
+- [Inspired UI](http://inspired-ui.com/) 
 
 # Components
 
