@@ -57,6 +57,17 @@ Resources for UX Designers
 - [Toggle - _Timetracking_](https://toggl.com/)
 - [And.co - _Timetracking/Contracts/Invoices_](https://www.and.co/)
 
+
+# Examples
+
+## Portfolio Sites
+
+-[Kintu Racca](http://kinturacca.com/)
+-[Tobias Ahlin](http://tobiasahlin.com/)
+-[Ramin Nasibov](https://www.nasibov.me/appfolio/)
+-[Anthony Anderson](http://an.thony.co.uk/)
+-[Chris Liu](http://chris-liu.me/)
+
 # Resources
 
 ## Podcasts
