@@ -90,7 +90,7 @@ Resources for UX Designers
 
 ## Practice
 
--[link name](URL)
+-[link name](URL HERE)
 -[link name](URL)
 -[link name](URL)
 -[link name](URL)
