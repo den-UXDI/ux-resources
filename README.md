@@ -80,7 +80,9 @@ Resources for UX Designers
 ## Books
 
 -[Design Is a Job](https://abookapart.com/products/design-is-a-job)
+
 -[The Design of Everyday Things](https://www.amazon.com/Design-Everyday-Things-Donald-Norman/dp/1452654123)
+
 -[Don't Make Me Think](https://www.amazon.com/Dont-Make-Think-Revisited-Usability/dp/0321965515/ref=pd_lpo_sbs_14_t_0?_encoding=UTF8&psc=1&refRID=WK7CJT0FHGPCGB4ZY3E3)
 
 ## Articles
